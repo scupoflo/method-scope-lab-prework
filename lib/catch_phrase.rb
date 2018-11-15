@@ -1,3 +1,4 @@
+phrase= "Gotcha!"
 def catch_phrase(phrase)
-  puts phrase("Gotcha!")
+  puts phrase
 end
